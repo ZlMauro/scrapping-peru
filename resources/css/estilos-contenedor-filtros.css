@@ -1,0 +1,27 @@
+
+.filtros {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.posicion-color {
+    position: absolute;
+    margin: 0px 0px 0px 15px;
+    width: 13px;
+    color: #e6e6e6;
+}
+
+.margen-color {
+    /* margin: 15px 10px; */
+    color: rgb(58, 182, 0);
+}
+
+
+
+
+
+
+
